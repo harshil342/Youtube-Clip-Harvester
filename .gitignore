@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Scratch and temporary test files
+scratch/
+*.part
+*.ytdl
+*.log
+yt_clip_harvester_cookies.txt
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
